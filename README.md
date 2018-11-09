@@ -9,3 +9,5 @@ commit 3 master
 wrong change
 
 wrong change
+
+correct change
